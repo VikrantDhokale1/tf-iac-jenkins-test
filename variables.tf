@@ -1,6 +1,6 @@
 variable ethereal-brace-395605 {
   type        = string
-  default     = "shared-project-1-392805"
+  default     = "ethereal-brace-395605"
   description = "description"
 }
 
