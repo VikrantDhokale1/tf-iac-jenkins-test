@@ -1,4 +1,4 @@
-variable ethereal-brace-395605 {
+variable project_id {
   type        = string
   default     = "ethereal-brace-395605"
   description = "description"
